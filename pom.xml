@@ -41,9 +41,9 @@
     </site>
   </distributionManagement>
   <scm>
-    <connection>scm:svn:http://svn.sourceforge.jp/svnroot/fess/fess-crud-template/trunk</connection>
-    <developerConnection>scm:svn:https://svn.sourceforge.jp/svnroot/fess/fess-crud-template/trunk</developerConnection>
-    <url>http://sourceforge.jp/projects/fess/svn/view/</url>
+    <connection>scm:git:git@github.com:codelibs/fess-crud-template.git</connection>
+    <developerConnection>scm:git:git@github.com:codelibs/fess-crud-template.git</developerConnection>
+    <url>https://github.com/codelibs/fess-crud-template</url>
   </scm>
   <mailingLists>
     <mailingList>
